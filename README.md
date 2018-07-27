@@ -10,3 +10,7 @@ The page consist of the following components:
 4.  Side Navigation for small devices
 5.  Showcase
 6.  Boxes
+7.  About
+8.  Testimonial
+9.  Footer
+10. Scrollspy
