@@ -14,3 +14,5 @@ The page consist of the following components:
 8.  Testimonial
 9.  Footer
 10. Scrollspy
+11. Contacts
+12. GoogleMap
