@@ -9,3 +9,4 @@ The page consist of the following components:
 3.  Header with background image
 4.  Side Navigation for small devices
 5.  Showcase
+6.  Boxes
